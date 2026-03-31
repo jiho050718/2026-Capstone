@@ -17,9 +17,10 @@
 
 - 위 구글 시트에 팀의 프로젝트 깃허브저장소주소 입력해 주세요. 
 
-## 논문 참고 저널
+## 논문 검색과 참고 저널
 - 실천공학교육논문지(https://jpee.org)
 - 한국디지털콘텐츠학회논문지(http://journal.dcs.or.kr)
+- 논문 검색 dbpia(https://www.dbpia.co.kr/)
 
 ---
 
