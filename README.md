@@ -18,7 +18,16 @@
 ## 온라인 출석과 수업 참여
 - [A반(QA) 화요일 오후](https://docs.google.com/spreadsheets/d/1MVAGhpp9p3av9C07VbmqftZfYQiLuAVilAumR-ilK7g/edit?usp=sharing)
 
-- 위 구글 시트에 팀의 프로젝트 깃허브저장소주소 입력해 주세요. 
+- 위 구글 시트에 팀의 프로젝트 깃허브저장소주소 입력해 주세요.
+
+## 팀별 저장소
+| 팀     | 팀장  | 팀 깃허브 저장소                                                               |
+| ----- | --- | ------------------------------------------------------------------------------------------------------------------ |
+| F5    | 조예성 | [https://github.com/Capstone-F5/CapstoneProject](https://github.com/Capstone-F5/CapstoneProject)                   |
+| 상부상조  | 장진석 | [https://github.com/Jinseok2419342/Capstone-team-project](https://github.com/Jinseok2419342/Capstone-team-project) |
+| 응원해조  | 유소희 | [https://github.com/usohee/AI_SkinCare_project](https://github.com/usohee/AI_SkinCare_project)        |
+| 에이원하조 | 권유진 | [https://github.com/kikimiya0606/capstone-project](https://github.com/kikimiya0606/capstone-project)    |
+
 
 ## 논문 검색과 참고 저널
 - 실천공학교육논문지(https://jpee.org)
